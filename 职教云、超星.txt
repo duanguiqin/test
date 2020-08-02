@@ -1,0 +1,9 @@
+https://zjy2.icve.com.cn/portal/login.html
+用户名：学号
+密码：gdsspt          （默认）
+
+http://gdsspt.fanya.chaoxing.com/portal
+用户名：学号
+密码：123456         （默认）
+
+Eolinker,
